@@ -1,4 +1,6 @@
-### Hi there 👋
+
+
+## My current github account: [github.com/OskarJankowiak](https://github.com/OskarJankowiak)
 
 <!--
 **JankowiakOskar/JankowiakOskar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
